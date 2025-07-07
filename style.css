@@ -67,3 +67,14 @@ header {
   
 }
 
+/* contact */
+.contact {
+  display: flex;
+  
+  flex-direction: row;
+  justify-content: end!important;
+  padding-top: 20px;
+  padding-right: 20px;
+
+  
+}
